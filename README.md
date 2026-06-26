@@ -1,4 +1,4 @@
-readme_content = """# 📊 NumPy Analyzer Toolkit
+📊 NumPy Analyzer Toolkit
 
 ## 📌 Project Objective
 The **NumPy Analyzer** is a Python-based, menu-driven toolkit that integrates NumPy functionalities with Object-Oriented Programming (OOP) principles. It empowers users to perform a wide range of data operations, statistical analyses, and mathematical computations on datasets using NumPy arrays through an interactive console interface.
